@@ -1,13 +1,4 @@
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
-# NFT_Epic_Game_
+# NFT_Epic_Game - Brute Beasts
 
 THe game demonstrates NFT card fighting game with realtime updates, HP power updates and a lot more!
 Please go check it out : https://nft-game-starter-project.tanmayjuneja8.repl.co
