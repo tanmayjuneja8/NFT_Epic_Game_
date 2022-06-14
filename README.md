@@ -1,9 +1,3 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
 ```shell
 npx hardhat accounts
 npx hardhat compile
@@ -14,3 +8,11 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 # NFT_Epic_Game_
+
+THe game demonstrates NFT card fighting game with realtime updates, HP power updates and a lot more!
+Please go check it out : https://nft-game-starter-project.tanmayjuneja8.repl.co
+
+P.S.
+
+The enemy is Elon Musk and you have the choice of chosing Thanos, Joker or Venom as your heroes to finish off Elon! - Yea, Evil Plan.
+No hard feelings, Elon! 🌸
